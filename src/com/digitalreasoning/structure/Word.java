@@ -9,9 +9,19 @@ public class Word extends SentencePiece
     implements XMLTag {
 
     private static final String XML_TAG = "Word";
+    private boolean namedEntity;
 
     public Word(String word) {
         this.piece = word;
+        namedEntity = false;
+    }
+
+    public boolean isNamedEntity() {
+        return namedEntity;
+    }
+
+    public void setIsNamedEntity(boolean value){
+        this.namedEntity = value;
     }
 
     public String getWord(){

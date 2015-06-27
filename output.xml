@@ -34,9 +34,7 @@
             <Punctuation></Punctuation>
             <Word>philosopher</Word>
             <Punctuation></Punctuation>
-            <Word>Ernst</Word>
-            <Punctuation></Punctuation>
-            <Word>Haeckel</Word>
+            <Word namedEntity="true">Ernst Haeckel</Word>
             <Punctuation>,</Punctuation>
             <Punctuation></Punctuation>
             <Word>who</Word>
@@ -71,7 +69,7 @@
             <Word>feared</Word>
             <Punctuation></Punctuation>
             <Punctuation>'</Punctuation>
-            <Word>European</Word>
+            <Word>883960376an</Word>
             <Punctuation></Punctuation>
             <Word>War</Word>
             <Punctuation>'</Punctuation>
@@ -150,9 +148,7 @@
             <Punctuation></Punctuation>
             <Word>Archduke</Word>
             <Punctuation></Punctuation>
-            <Word>Franz</Word>
-            <Punctuation></Punctuation>
-            <Word>Ferdinand</Word>
+            <Word namedEntity="true">Franz Ferdinand</Word>
             <Punctuation></Punctuation>
             <Word>of</Word>
             <Punctuation></Punctuation>
@@ -169,9 +165,7 @@
             <Punctuation></Punctuation>
             <Word>of</Word>
             <Punctuation></Punctuation>
-            <Word>Austria</Word>
-            <Punctuation>-</Punctuation>
-            <Word>Hungary</Word>
+            <Word namedEntity="true">Gavrilo Princip</Word>
             <Punctuation>,</Punctuation>
             <Punctuation></Punctuation>
             <Word>by</Word>
@@ -180,9 +174,7 @@
             <Punctuation></Punctuation>
             <Word>nationalist</Word>
             <Punctuation></Punctuation>
-            <Word>Gavrilo</Word>
-            <Punctuation></Punctuation>
-            <Word>Princip</Word>
+            <Word namedEntity="true">Austria-Hungary</Word>
             <Punctuation></Punctuation>
             <Punctuation>(</Punctuation>
             <Word>19</Word>
@@ -200,7 +192,7 @@
             <Punctuation></Punctuation>
             <Word>in</Word>
             <Punctuation></Punctuation>
-            <Word>Sarajevo</Word>
+            <Word namedEntity="true">Sarajevo</Word>
             <Punctuation>.</Punctuation>
             <Punctuation></Punctuation>
         </Sentence>
@@ -219,9 +211,7 @@
             <Punctuation></Punctuation>
             <Word>when</Word>
             <Punctuation></Punctuation>
-            <Word>Austria</Word>
-            <Punctuation>-</Punctuation>
-            <Word>Hungary</Word>
+            <Word namedEntity="true">Austria-Hungary</Word>
             <Punctuation></Punctuation>
             <Word>delivered</Word>
             <Punctuation></Punctuation>
@@ -237,7 +227,7 @@
             <Punctuation></Punctuation>
             <Word>of</Word>
             <Punctuation></Punctuation>
-            <Word>Serbia</Word>
+            <Word namedEntity="true">Serbia</Word>
             <Punctuation>,</Punctuation>
             <Punctuation></Punctuation>
             <Word>and</Word>

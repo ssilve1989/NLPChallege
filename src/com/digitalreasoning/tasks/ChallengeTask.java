@@ -17,14 +17,22 @@ import java.util.stream.Collectors;
  * and whitespace. Every word must fall into a sentence. Create data structures that
  * efficiently express the data you have processed. When your program runs it should
  * output an XML representation of your Java object model.
+ * <p>
+ * #2 Modify your program from #1 to add rudimentary recognition of proper nouns (“named
+ * entities”) in the input, and print a list of recognized named entities when it runs.
+ * The list of named entities is in the file “NER.txt”. Enhance your data structures and
+ * output schema to store information about which portions of the text represent named entities.
  */
 public class ChallengeTask extends NLPTask {
 
     private final String input;
+    private final String entityFile;
     private List<String> lines;
+    private List<String> namedEntities;
 
-    public ChallengeTask(String input) {
+    public ChallengeTask(String input, String entityFile) {
         this.input = input;
+        this.entityFile = entityFile;
     }
 
     /**
@@ -32,15 +40,16 @@ public class ChallengeTask extends NLPTask {
      * into a List<String>. Stream might process faster than normal iteration? Regardless
      * the code is cleaner doing it this way and doesn't introduce "side-effects" the way
      * normal file reading does.
+     *
      * @throws IOException
      */
     @Override
     protected void beforeTask() throws IOException {
-        try{
+        try {
             lines = Files.lines(Paths.get(this.input))
                     .filter(p -> !p.trim().isEmpty())
                     .collect(Collectors.toList());
-        }catch(IOException e){
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }
@@ -53,7 +62,7 @@ public class ChallengeTask extends NLPTask {
         try {
             beforeTask();
             List<Paragraph> paragraphs = new ArrayList<Paragraph>();
-            for(String line : lines){
+            for (String line : lines) {
                 paragraphs.add(new Paragraph((line)));
             }
             ParagraphsToXML xmlBuilder = new ParagraphsToXML("output.xml", paragraphs);

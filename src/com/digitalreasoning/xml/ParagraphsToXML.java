@@ -13,6 +13,7 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import java.util.Collection;
+import java.util.List;
 
 /**
  * Created by steve on 6/27/15.
@@ -20,6 +21,7 @@ import java.util.Collection;
  * into an XML document
  */
 public class ParagraphsToXML {
+    private static final String NAMED_ENTITY = "namedEntity";
     private final String outputFile;
     private final Collection<Paragraph> paragraphs;
     private final DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
@@ -60,6 +62,7 @@ public class ParagraphsToXML {
         Element sentencePieceElement = doc.createElement(piece.getXMLTag());
         if(piece instanceof Word){
             Word word = (Word) piece;
+            if(word.isNamedEntity()) sentencePieceElement.setAttribute(NAMED_ENTITY, "true");
             sentencePieceElement.appendChild(doc.createTextNode(word.getWord()));
         }else if(piece instanceof Punctuation){
             Punctuation punctuation = (Punctuation) piece;
