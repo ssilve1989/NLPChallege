@@ -12,7 +12,8 @@ public class Punctuation extends SentencePiece
     private static final String XML_TAG = "Punctuation";
 
     public Punctuation(String punctuation) {
-        this.piece = punctuation == " " ? "\u00A0;" : punctuation;
+        //this.piece = punctuation.equals(" ") ? "\u00A0" : punctuation;
+        this.piece = punctuation;
     }
 
     public String getPunctuation() {

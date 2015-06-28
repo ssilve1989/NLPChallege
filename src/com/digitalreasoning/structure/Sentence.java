@@ -16,7 +16,7 @@ import java.util.regex.Pattern;
 public class Sentence implements XMLTag {
     private static final String XML_TAG = "Sentence";
     private String sentence;
-    private List<SentencePiece> pieces;
+    private final List<SentencePiece> pieces;
     private static final Pattern nonWordRegex = Pattern.compile("\\W");
     private static final String ENTITY_REPLACE = String.valueOf("ENTITY_REPLACE".hashCode());
 
@@ -39,11 +39,13 @@ public class Sentence implements XMLTag {
     }
 
     /**
-     * Here we are going to parse the Sentence into Words and Punctuation.
-     * We will iterate over the sentence tokenized. Rather than splitting
-     * on a word and non-word regex, we willy only iterate once which should
-     * ensure better performance. It doesn't make sense to perform a split twice
-     * on the same string.
+     * Take the sentence instance variable and process it for words/punctuation
+     * and named entities. You are probably thinking, what the hell is this weird
+     * ENTITY_REPLACE hashcoded string. Well this allows for a "simpler" processing of named
+     * entities. If we can create the word instance on entities first, it saves computation time
+     * from other approaches. We do this replacement string so that we can maintain the order of sentencePiece
+     * occurence. We also use a linkedlist to just "pop" off the Entity when we encounter
+     * its replacement later in addSentencePiece()
      */
     public void parseSentence(){
         String s = this.sentence;
@@ -51,7 +53,7 @@ public class Sentence implements XMLTag {
         List<String> entities = NamedEntityList.getInstance().getEntityList();
         List<Word> entityWords = new LinkedList<>();
         for(String entity : entities){
-            if(s.contains(entity)){
+            if(containsExact(s, entity)){
                 int startIndex = s.indexOf(entity);
                 Word word = new Word(s.substring(startIndex, startIndex + entity.length()));
                 word.setIsNamedEntity(true);
@@ -60,14 +62,6 @@ public class Sentence implements XMLTag {
             }
         }
         addSentencePiece(s, entityWords);
-    }
-
-    private boolean containsEntity(String s){
-        for(String entity : NamedEntityList.getInstance().getEntityList()){
-            if(s.contains(entity))
-                return true;
-        }
-        return false;
     }
 
     public void addSentencePiece(String s, List<Word> entities){
@@ -89,6 +83,12 @@ public class Sentence implements XMLTag {
             //the matched group is the punctuation
             pieces.add(new Punctuation(matcher.group()));
         }
+    }
+
+    private boolean containsExact(String source, String term){
+        final Pattern p = Pattern.compile("\\b"+term+"\\b");
+        final Matcher m = p.matcher(source);
+        return m.find();
     }
 
     @Override

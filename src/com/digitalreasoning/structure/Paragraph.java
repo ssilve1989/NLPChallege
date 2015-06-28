@@ -49,12 +49,12 @@ public class Paragraph implements XMLTag {
      * boundaries and insert all sentences into the member variable <code>sentences</code>
      * It attempts to optimize memory by using the constant reference provided by the Collections
      * class where it can.
-     * @param paragraph
-     * @return
+     * @param paragraph A String representing a paragraph
+     * @return Returns a List of Sentence instances.
      */
     public static List<Sentence> parseParagraph(String paragraph){
         if(paragraph == null || paragraph.isEmpty()) return Collections.emptyList();
-        List<Sentence> sentences = new ArrayList<Sentence>();
+        List<Sentence> sentences = new ArrayList<>();
         BreakIterator iter = BreakIterator.getSentenceInstance(Locale.getDefault());
         iter.setText(paragraph);
         int endBoundary = iter.first();

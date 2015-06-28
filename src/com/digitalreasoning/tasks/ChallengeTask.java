@@ -44,7 +44,7 @@ public class ChallengeTask extends NLPTask {
      * @throws IOException
      */
     @Override
-    protected void beforeTask() throws IOException {
+    protected void beforeTask() {
         try {
             lines = Files.lines(Paths.get(this.input))
                     .filter(p -> !p.trim().isEmpty())
@@ -61,10 +61,7 @@ public class ChallengeTask extends NLPTask {
     public void runTask() {
         try {
             beforeTask();
-            List<Paragraph> paragraphs = new ArrayList<Paragraph>();
-            for (String line : lines) {
-                paragraphs.add(new Paragraph((line)));
-            }
+            List<Paragraph> paragraphs = lines.stream().map(line -> new Paragraph((line))).collect(Collectors.toList());
             ParagraphsToXML xmlBuilder = new ParagraphsToXML("output.xml", paragraphs);
             xmlBuilder.writeFile();
         } catch (Exception e) {

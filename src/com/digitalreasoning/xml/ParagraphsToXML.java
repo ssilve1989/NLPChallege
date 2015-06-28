@@ -13,7 +13,6 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import java.util.Collection;
-import java.util.List;
 
 /**
  * Created by steve on 6/27/15.
@@ -47,18 +46,18 @@ public class ParagraphsToXML {
         createOutput(doc);
     }
 
-    private final void paragraphToXml(Element root, Paragraph p){
+    private void paragraphToXml(Element root, Paragraph p){
         Element paragraphElement = doc.createElement(p.getXMLTag());
         root.appendChild(paragraphElement);
         p.getSentences().forEach(sentence -> sentenceToXMl(paragraphElement, sentence));
     }
-    private final void sentenceToXMl(Element parent, Sentence s){
+    private void sentenceToXMl(Element parent, Sentence s){
         Element sentenceElement = doc.createElement(s.getXMLTag());
         parent.appendChild(sentenceElement);
         s.getSentencePieces().forEach(piece -> sentencePieceToXML(sentenceElement, piece));
     }
 
-    private final void sentencePieceToXML(Element parent, SentencePiece piece){
+    private void sentencePieceToXML(Element parent, SentencePiece piece){
         Element sentencePieceElement = doc.createElement(piece.getXMLTag());
         if(piece instanceof Word){
             Word word = (Word) piece;
@@ -71,7 +70,7 @@ public class ParagraphsToXML {
         parent.appendChild(sentencePieceElement);
     }
 
-    private final void createOutput(Document document) throws TransformerException {
+    private void createOutput(Document document) throws TransformerException {
         TransformerFactory transformerFactory = TransformerFactory.newInstance();
         Transformer transformer = transformerFactory.newTransformer();
         DOMSource source = new DOMSource(document);

@@ -1,7 +1,5 @@
 package com.digitalreasoning.tasks;
 
-import java.io.IOException;
-
 /**
  * Created by steve on 6/26/15.
  * All Challenge tasks deal with I/O so they should define a beforeTask
@@ -9,6 +7,6 @@ import java.io.IOException;
  */
 public abstract class NLPTask {
 
-    protected abstract void beforeTask() throws IOException;
+    protected abstract void beforeTask();
     public abstract void runTask();
 }
