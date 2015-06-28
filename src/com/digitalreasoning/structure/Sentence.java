@@ -92,6 +92,13 @@ public class Sentence implements XMLTag {
     }
 
     @Override
+    public String toString(){
+        StringBuilder sentence = new StringBuilder();
+        pieces.forEach(sentence::append);
+        return sentence.toString();
+    }
+
+    @Override
     public String getXMLTag() {
         return XML_TAG;
     }

@@ -11,6 +11,13 @@ public class Punctuation extends SentencePiece
 
     private static final String XML_TAG = "Punctuation";
 
+    /**
+     * Create the punctuation instance from the string passed in.
+     * If it is a whitespace char we are converting it to its unicode
+     * equivalent so that when we write to the XML Document it prints correctly.
+     * It was coming up as empty string without doing this...
+     * @param punctuation
+     */
     public Punctuation(String punctuation) {
         this.piece = punctuation.equals(" ") ? "\u00A0" : punctuation;
         //this.piece = punctuation;

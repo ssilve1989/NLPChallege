@@ -31,13 +31,9 @@ public class ChallengeTask extends NLPTask {
 
     private final String input;
     private List<File> files;
-    private final String entityFile;
-    private List<String> lines;
-    private List<String> namedEntities;
 
-    public ChallengeTask(String input, String entityFile) {
+    public ChallengeTask(String input) {
         this.input = input;
-        this.entityFile = entityFile;
     }
 
     @Override
@@ -50,7 +46,10 @@ public class ChallengeTask extends NLPTask {
     }
 
     /**
-     *
+     *  Use a ThreadPool with threads equal to the amount of files there are
+     *  to be read in.&nbsp;Using the Future class we can store all the responses
+     *  in a single list and when all threads are done executing the data parsing
+     *  we can dump the data into XML format.
      */
     @Override
     public void runTask() {

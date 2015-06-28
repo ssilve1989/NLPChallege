@@ -26,4 +26,13 @@ public class SentenceTest {
         assertEquals(10, wordCount);
         assertEquals(10, puncCount);
     }
+
+    @Test
+    public void toStringTest(){
+        String s = "I am the entire sentence with punctuations and \"quotes\"!";
+        Sentence sentence = new Sentence(s);
+        //convert spaces to unicode since we do that in our structures for XML compatability
+        s = s.replaceAll(" ", "\u00A0");
+        assertEquals(s, sentence.toString());
+    }
 }

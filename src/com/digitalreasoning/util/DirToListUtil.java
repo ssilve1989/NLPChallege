@@ -21,9 +21,7 @@ public class DirToListUtil {
         File[] files = directory.listFiles();
         if(files == null || files.length == 0) return Collections.emptyList();
         List<File> fileList = new ArrayList<>();
-        for(File file : files){
-            fileList.add(file);
-        }
+        Collections.addAll(fileList, files);
         return fileList;
     }
 }
