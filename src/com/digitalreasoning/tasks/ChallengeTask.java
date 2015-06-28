@@ -1,13 +1,17 @@
 package com.digitalreasoning.tasks;
 
 import com.digitalreasoning.structure.Paragraph;
+import com.digitalreasoning.util.DirToListUtil;
 import com.digitalreasoning.xml.ParagraphsToXML;
 
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 import java.util.stream.Collectors;
 
 /**
@@ -26,6 +30,7 @@ import java.util.stream.Collectors;
 public class ChallengeTask extends NLPTask {
 
     private final String input;
+    private List<File> files;
     private final String entityFile;
     private List<String> lines;
     private List<String> namedEntities;
@@ -35,21 +40,11 @@ public class ChallengeTask extends NLPTask {
         this.entityFile = entityFile;
     }
 
-    /**
-     * Sets up the lines that have been read in from the input file via Stream and translated
-     * into a List<String>. Stream might process faster than normal iteration? Regardless
-     * the code is cleaner doing it this way and doesn't introduce "side-effects" the way
-     * normal file reading does.
-     *
-     * @throws IOException
-     */
     @Override
     protected void beforeTask() {
         try {
-            lines = Files.lines(Paths.get(this.input))
-                    .filter(p -> !p.trim().isEmpty())
-                    .collect(Collectors.toList());
-        } catch (IOException e) {
+            files = DirToListUtil.getDirectoryFiles("nlp_data");
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
@@ -61,8 +56,17 @@ public class ChallengeTask extends NLPTask {
     public void runTask() {
         try {
             beforeTask();
-            List<Paragraph> paragraphs = lines.stream().map(line -> new Paragraph((line))).collect(Collectors.toList());
-            ParagraphsToXML xmlBuilder = new ParagraphsToXML("output.xml", paragraphs);
+            List<Paragraph> paragraphList = new ArrayList<>();
+            ExecutorService executor = Executors.newFixedThreadPool(files.size());
+            for(File file: files) {
+                Future<List<Paragraph>> paragraphs = executor.submit(() -> Files.lines(Paths.get(file.getAbsolutePath()))
+                        .map(Paragraph::new)
+                        .collect(Collectors.toList()));
+                List<Paragraph> futureParagraphs = paragraphs.get();
+                paragraphList.addAll(futureParagraphs);
+            }
+            executor.shutdown();
+            ParagraphsToXML xmlBuilder = new ParagraphsToXML("output.xml", paragraphList);
             xmlBuilder.writeFile();
         } catch (Exception e) {
             e.printStackTrace();
