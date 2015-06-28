@@ -26,6 +26,10 @@ import java.util.stream.Collectors;
  * entities”) in the input, and print a list of recognized named entities when it runs.
  * The list of named entities is in the file “NER.txt”. Enhance your data structures and
  * output schema to store information about which portions of the text represent named entities.
+ *
+ * #3 Modify your program from #2 to use “ nlp_data.zip ” as its input. Use a thread pool to
+ * parallelize the processing of the text files contained in the zip. Aggregate the results
+ * and modify the output schema accordingly.
  */
 public class ChallengeTask extends NLPTask {
 

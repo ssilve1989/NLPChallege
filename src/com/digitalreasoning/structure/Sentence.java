@@ -64,6 +64,12 @@ public class Sentence implements XMLTag {
         addSentencePiece(s, entityWords);
     }
 
+    /**
+     * Breaks the given String into its word/punctuation pieces while also
+     * checking for named entity replacements.
+     * @param s The String representing the Sentence
+     * @param entities A list of entities found in this String sentence
+     */
     public void addSentencePiece(String s, List<Word> entities){
         Matcher matcher = nonWordRegex.matcher(s);
         int start = 0;
@@ -85,12 +91,24 @@ public class Sentence implements XMLTag {
         }
     }
 
+    /**
+     * Returns true if the term is found in source. It uses word boundaries so that&nbsp;
+     * partial matches don't return a false positive. Ex. Europe vs European
+     * @param source The String in which the search term is being checked
+     * @param term The String that is being searched for in source
+     * @return
+     */
     private boolean containsExact(String source, String term){
         final Pattern p = Pattern.compile("\\b"+term+"\\b");
         final Matcher m = p.matcher(source);
         return m.find();
     }
 
+    /**
+     * Override toString to return all the words/punctuation that form
+     * this sentence into a coherent String representation.
+     * @return
+     */
     @Override
     public String toString(){
         StringBuilder sentence = new StringBuilder();
