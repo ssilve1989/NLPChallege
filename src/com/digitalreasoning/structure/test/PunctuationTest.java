@@ -18,7 +18,6 @@ public class PunctuationTest {
         assertEquals("!", new Punctuation("!").getPunctuation());
         //some stranger ones
         assertEquals(">", new Punctuation(">").getPunctuation());
-        //unicode version of whitespace for XML compatability.
-        assertEquals("\u00A0", new Punctuation(" ").getPunctuation());
+        assertEquals(" ", new Punctuation(" ").getPunctuation());
     }
 }

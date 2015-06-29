@@ -13,14 +13,13 @@ public class Punctuation extends SentencePiece
 
     /**
      * Create the punctuation instance from the string passed in.
-     * If it is a whitespace char we are converting it to its unicode
-     * equivalent so that when we write to the XML Document it prints correctly.
-     * It was coming up as empty string without doing this...
+     * Note: Removed the unicode conversion from previous versions as I discovered it was due to the IntelliJ IDE
+     * "reformat code" function that removed the whitespace from those nodes causing it to be empty.
      * @param punctuation
      */
     public Punctuation(String punctuation) {
-        this.piece = punctuation.equals(" ") ? "\u00A0" : punctuation;
-        //this.piece = punctuation;
+        //this.piece = punctuation.equals(" ") ? "\u00A0" : punctuation;
+        this.piece = punctuation;
     }
 
     public String getPunctuation() {
