@@ -7,8 +7,6 @@ import com.digitalreasoning.xml.ParagraphsToXML;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 import java.util.concurrent.*;
 import java.util.stream.Collectors;
@@ -42,11 +40,7 @@ public class ChallengeTask extends NLPTask {
 
     @Override
     protected void beforeTask() {
-        try {
-            files = DirToListUtil.getDirectoryFiles("nlp_data");
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+            files = DirToListUtil.getDirectoryFiles(this.input);
     }
 
     /**

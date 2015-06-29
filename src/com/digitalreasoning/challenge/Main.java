@@ -9,7 +9,7 @@ import com.digitalreasoning.tasks.ChallengeTask;
  */
 public class Main {
     public static void main(String[] args){
-        NLPTask task = new ChallengeTask("nlp_data.zip");
+        NLPTask task = new ChallengeTask("nlp_data");
         task.runTask();
     }
 }
