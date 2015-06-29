@@ -8,10 +8,9 @@ import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
+import java.util.concurrent.*;
 import java.util.stream.Collectors;
 
 /**
@@ -22,6 +21,7 @@ import java.util.stream.Collectors;
  * efficiently express the data you have processed. When your program runs it should
  * output an XML representation of your Java object model.
  * <p>
+ *
  * #2 Modify your program from #1 to add rudimentary recognition of proper nouns (“named
  * entities”) in the input, and print a list of recognized named entities when it runs.
  * The list of named entities is in the file “NER.txt”. Enhance your data structures and
@@ -59,7 +59,7 @@ public class ChallengeTask extends NLPTask {
     public void runTask() {
         try {
             beforeTask();
-            List<Paragraph> paragraphList = new ArrayList<>();
+            LinkedBlockingDeque<Paragraph> paragraphList = new LinkedBlockingDeque<>(); //thread safe collection
             ExecutorService executor = Executors.newFixedThreadPool(files.size());
             for(File file: files) {
                 Future<List<Paragraph>> paragraphs = executor.submit(() -> Files.lines(Paths.get(file.getAbsolutePath()))
