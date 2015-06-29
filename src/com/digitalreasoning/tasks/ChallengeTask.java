@@ -63,6 +63,7 @@ public class ChallengeTask extends NLPTask {
             ExecutorService executor = Executors.newFixedThreadPool(files.size());
             for(File file: files) {
                 Future<List<Paragraph>> paragraphs = executor.submit(() -> Files.lines(Paths.get(file.getAbsolutePath()))
+                        .parallel()
                         .map(Paragraph::new)
                         .collect(Collectors.toList()));
                 List<Paragraph> futureParagraphs = paragraphs.get();
