@@ -6,7 +6,6 @@ import com.digitalreasoning.xml.XMLTag;
  * Created by steve on 6/27/15.
  * Sort of a "God Parent" class for Word and Punctuation so they can be added
  * to the same data structure to preserve order when parsing a sentence.
- * Like God Parents they serve a purpose but aren't really needed.
  */
 public abstract class SentencePiece
     implements XMLTag{
