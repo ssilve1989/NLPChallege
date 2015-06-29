@@ -2,291 +2,2565 @@
 <File>
     <Paragraph>
         <Sentence>
-            <Word>The</Word>
-            <Punctuation> </Punctuation>
-            <Word>term</Word>
-            <Punctuation> </Punctuation>
-            <Punctuation>"</Punctuation>
-            <Word>First</Word>
-            <Punctuation> </Punctuation>
-            <Word>World</Word>
-            <Punctuation> </Punctuation>
-            <Word>War</Word>
-            <Punctuation>"</Punctuation>
-            <Punctuation> </Punctuation>
-            <Word>was</Word>
-            <Punctuation> </Punctuation>
-            <Word>first</Word>
-            <Punctuation> </Punctuation>
-            <Word>used</Word>
-            <Punctuation> </Punctuation>
-            <Word>in</Word>
-            <Punctuation> </Punctuation>
-            <Word>September</Word>
-            <Punctuation> </Punctuation>
-            <Word>1914</Word>
-            <Punctuation> </Punctuation>
-            <Word>by</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>German</Word>
-            <Punctuation> </Punctuation>
-            <Word>philosopher</Word>
-            <Punctuation> </Punctuation>
-            <Word namedEntity="true">Ernst Haeckel</Word>
+            <Word namedEntity="true">Sun Microsystems</Word>
             <Punctuation>,</Punctuation>
-            <Punctuation> </Punctuation>
-            <Word>who</Word>
-            <Punctuation> </Punctuation>
-            <Word>claimed</Word>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>Inc</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>company</Word>
+            <Punctuation> </Punctuation>
             <Word>that</Word>
-            <Punctuation> </Punctuation>
-            <Punctuation>"</Punctuation>
-            <Word>there</Word>
-            <Punctuation> </Punctuation>
-            <Word>is</Word>
-            <Punctuation> </Punctuation>
-            <Word>no</Word>
-            <Punctuation> </Punctuation>
-            <Word>doubt</Word>
-            <Punctuation> </Punctuation>
-            <Word>that</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>course</Word>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>sold</Word>
+            <Punctuation> </Punctuation>
+            <Word>computers</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>computer</Word>
+            <Punctuation> </Punctuation>
+            <Word>components</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>computer</Word>
+            <Punctuation> </Punctuation>
+            <Word>software</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
             <Word>and</Word>
-            <Punctuation> </Punctuation>
-            <Word>character</Word>
-            <Punctuation> </Punctuation>
-            <Word>of</Word>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>information</Word>
+            <Punctuation> </Punctuation>
+            <Word>technology</Word>
+            <Punctuation> </Punctuation>
+            <Word>services</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>created</Word>
+            <Punctuation> </Punctuation>
             <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>feared</Word>
-            <Punctuation> </Punctuation>
-            <Punctuation>'</Punctuation>
-            <Word>European</Word>
-            <Punctuation> </Punctuation>
-            <Word>War</Word>
-            <Punctuation>'</Punctuation>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>Java</Word>
+            <Punctuation> </Punctuation>
+            <Word>programming</Word>
+            <Punctuation> </Punctuation>
+            <Word>language</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>Network</Word>
+            <Punctuation> </Punctuation>
+            <Word>File</Word>
+            <Punctuation> </Punctuation>
+            <Word>System</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>(</Punctuation>
+            <Word>NFS</Word>
+            <Punctuation>)</Punctuation>
             <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word namedEntity="true">Sun</Word>
+            <Punctuation> </Punctuation>
+            <Word>significantly</Word>
+            <Punctuation> </Punctuation>
+            <Word>evolved</Word>
+            <Punctuation> </Punctuation>
+            <Word>several</Word>
+            <Punctuation> </Punctuation>
+            <Word>key</Word>
+            <Punctuation> </Punctuation>
+            <Word>computing</Word>
+            <Punctuation> </Punctuation>
+            <Word>technologies</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>among</Word>
+            <Punctuation> </Punctuation>
+            <Word>them</Word>
+            <Punctuation> </Punctuation>
+            <Word>Unix</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>RISC</Word>
+            <Punctuation> </Punctuation>
+            <Word>processors</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>thin</Word>
+            <Punctuation> </Punctuation>
+            <Word>client</Word>
+            <Punctuation> </Punctuation>
+            <Word>computing</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>virtualized</Word>
+            <Punctuation> </Punctuation>
+            <Word>computing</Word>
             <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word namedEntity="true">Sun</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>founded</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>February</Word>
+            <Punctuation> </Punctuation>
+            <Word>24</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>1982</Word>
             <Punctuation>.</Punctuation>
-            <Punctuation> </Punctuation>
-            <Word>will</Word>
-            <Punctuation> </Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word>On</Word>
+            <Punctuation> </Punctuation>
+            <Word>January</Word>
+            <Punctuation> </Punctuation>
+            <Word>27</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>2010</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Sun</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>acquired</Word>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Oracle Corporation</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>US</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>$</Punctuation>
+            <Word>7</Word>
+            <Punctuation>.</Punctuation>
+            <Word>4</Word>
+            <Punctuation> </Punctuation>
+            <Word>billion</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word>following</Word>
+            <Punctuation> </Punctuation>
+            <Word>month</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Sun</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>merged</Word>
+            <Punctuation> </Punctuation>
+            <Word>with</Word>
+            <Punctuation> </Punctuation>
+            <Word>Oracle</Word>
+            <Punctuation> </Punctuation>
+            <Word>USA</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>Inc</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
             <Word>become</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>first</Word>
-            <Punctuation> </Punctuation>
-            <Word>world</Word>
-            <Punctuation> </Punctuation>
-            <Word>war</Word>
-            <Punctuation> </Punctuation>
-            <Word>in</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>full</Word>
-            <Punctuation> </Punctuation>
-            <Word>sense</Word>
-            <Punctuation> </Punctuation>
-            <Word>of</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>word</Word>
+            <Punctuation> </Punctuation>
+            <Word>Oracle</Word>
+            <Punctuation> </Punctuation>
+            <Word>America</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>Inc</Word>
             <Punctuation>.</Punctuation>
-            <Punctuation>"</Punctuation>
         </Sentence>
     </Paragraph>
     <Paragraph>
         <Sentence>
-            <Word>Why</Word>
-            <Punctuation> </Punctuation>
-            <Word>did</Word>
-            <Punctuation> </Punctuation>
+            <Word>Horseshoe</Word>
+            <Punctuation> </Punctuation>
+            <Word>crabs</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>marine</Word>
+            <Punctuation> </Punctuation>
+            <Word>arthropods</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>live</Word>
+            <Punctuation> </Punctuation>
+            <Word>primarily</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>around</Word>
+            <Punctuation> </Punctuation>
+            <Word>shallow</Word>
+            <Punctuation> </Punctuation>
+            <Word>ocean</Word>
+            <Punctuation> </Punctuation>
+            <Word>waters</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>soft</Word>
+            <Punctuation> </Punctuation>
+            <Word>sandy</Word>
+            <Punctuation> </Punctuation>
+            <Word>or</Word>
+            <Punctuation> </Punctuation>
+            <Word>muddy</Word>
+            <Punctuation> </Punctuation>
+            <Word>bottoms</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>They</Word>
+            <Punctuation> </Punctuation>
+            <Word>occasionally</Word>
+            <Punctuation> </Punctuation>
+            <Word>come</Word>
+            <Punctuation> </Punctuation>
+            <Word>onto</Word>
+            <Punctuation> </Punctuation>
+            <Word>shore</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>mate</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>They</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>commonly</Word>
+            <Punctuation> </Punctuation>
+            <Word>used</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>bait</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>fertilizer</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>In</Word>
+            <Punctuation> </Punctuation>
+            <Word>recent</Word>
+            <Punctuation> </Punctuation>
+            <Word>years</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>decline</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
             <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>war</Word>
-            <Punctuation> </Punctuation>
-            <Word>begin</Word>
-            <Punctuation>?</Punctuation>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>population</Word>
+            <Punctuation> </Punctuation>
+            <Word>has</Word>
+            <Punctuation> </Punctuation>
+            <Word>occurred</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>consequence</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>coastal</Word>
+            <Punctuation> </Punctuation>
+            <Word>habitat</Word>
+            <Punctuation> </Punctuation>
+            <Word>destruction</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">North America</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>overharvesting</Word>
+            <Punctuation> </Punctuation>
+            <Word>along</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>east</Word>
+            <Punctuation> </Punctuation>
+            <Word>coast</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Japan</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word>Because</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>their</Word>
+            <Punctuation> </Punctuation>
+            <Word>origin</Word>
+            <Punctuation> </Punctuation>
+            <Word>450</Word>
+            <Punctuation> </Punctuation>
+            <Word>million</Word>
+            <Punctuation> </Punctuation>
+            <Word>years</Word>
+            <Punctuation> </Punctuation>
+            <Word>ago</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>(</Punctuation>
+            <Word>Mya</Word>
+            <Punctuation>)</Punctuation>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>horseshoe</Word>
+            <Punctuation> </Punctuation>
+            <Word>crabs</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>considered</Word>
+            <Punctuation> </Punctuation>
+            <Word>living</Word>
+            <Punctuation> </Punctuation>
+            <Word>fossils</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Horseshoe</Word>
+            <Punctuation> </Punctuation>
+            <Word>crabs</Word>
+            <Punctuation> </Punctuation>
+            <Word>resemble</Word>
+            <Punctuation> </Punctuation>
+            <Word>crustaceans</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>but</Word>
+            <Punctuation> </Punctuation>
+            <Word>belong</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>separate</Word>
+            <Punctuation> </Punctuation>
+            <Word>subphylum</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>closely</Word>
+            <Punctuation> </Punctuation>
+            <Word>related</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>arachnids</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
         </Sentence>
         <Sentence>
             <Word>The</Word>
-            <Punctuation> </Punctuation>
-            <Word>immediate</Word>
-            <Punctuation> </Punctuation>
-            <Word>trigger</Word>
-            <Punctuation> </Punctuation>
-            <Word>for</Word>
-            <Punctuation> </Punctuation>
-            <Word>war</Word>
-            <Punctuation> </Punctuation>
-            <Word>was</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>28</Word>
-            <Punctuation> </Punctuation>
-            <Word>June</Word>
-            <Punctuation> </Punctuation>
-            <Word>1914</Word>
-            <Punctuation> </Punctuation>
-            <Word>assassination</Word>
-            <Punctuation> </Punctuation>
-            <Word>of</Word>
-            <Punctuation> </Punctuation>
-            <Word>Archduke</Word>
-            <Punctuation> </Punctuation>
-            <Word namedEntity="true">Franz Ferdinand</Word>
-            <Punctuation> </Punctuation>
-            <Word>of</Word>
-            <Punctuation> </Punctuation>
-            <Word>Austria</Word>
-            <Punctuation>,</Punctuation>
-            <Punctuation> </Punctuation>
-            <Word>heir</Word>
-            <Punctuation> </Punctuation>
-            <Word>to</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>throne</Word>
-            <Punctuation> </Punctuation>
-            <Word>of</Word>
-            <Punctuation> </Punctuation>
-            <Word namedEntity="true">Gavrilo Princip</Word>
-            <Punctuation>,</Punctuation>
-            <Punctuation> </Punctuation>
-            <Word>by</Word>
-            <Punctuation> </Punctuation>
-            <Word>Yugoslav</Word>
-            <Punctuation> </Punctuation>
-            <Word>nationalist</Word>
-            <Punctuation> </Punctuation>
-            <Word namedEntity="true">Austria-Hungary</Word>
-            <Punctuation> </Punctuation>
-            <Punctuation>(</Punctuation>
-            <Word>19</Word>
-            <Punctuation> </Punctuation>
-            <Word>years</Word>
-            <Punctuation> </Punctuation>
-            <Word>old</Word>
-            <Punctuation> </Punctuation>
-            <Word>at</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>time</Word>
-            <Punctuation>)</Punctuation>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>earliest</Word>
+            <Punctuation> </Punctuation>
+            <Word>horseshoe</Word>
+            <Punctuation> </Punctuation>
+            <Word>crab</Word>
+            <Punctuation> </Punctuation>
+            <Word>fossils</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>found</Word>
+            <Punctuation> </Punctuation>
             <Word>in</Word>
-            <Punctuation> </Punctuation>
-            <Word namedEntity="true">Sarajevo</Word>
+            <Punctuation> </Punctuation>
+            <Word>strata</Word>
+            <Punctuation> </Punctuation>
+            <Word>from</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>late</Word>
+            <Punctuation> </Punctuation>
+            <Word>Ordovician</Word>
+            <Punctuation> </Punctuation>
+            <Word>period</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>roughly</Word>
+            <Punctuation> </Punctuation>
+            <Word>450</Word>
+            <Punctuation> </Punctuation>
+            <Word>Mya</Word>
             <Punctuation>.</Punctuation>
-            <Punctuation> </Punctuation>
         </Sentence>
+    </Paragraph>
+    <Paragraph>
         <Sentence>
-            <Word>This</Word>
-            <Punctuation> </Punctuation>
-            <Word>set</Word>
-            <Punctuation> </Punctuation>
-            <Word>off</Word>
-            <Punctuation> </Punctuation>
+            <Word namedEntity="true">James Clerk Maxwell</Word>
+            <Punctuation> </Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
             <Word>a</Word>
-            <Punctuation> </Punctuation>
-            <Word>diplomatic</Word>
-            <Punctuation> </Punctuation>
-            <Word>crisis</Word>
-            <Punctuation> </Punctuation>
-            <Word>when</Word>
-            <Punctuation> </Punctuation>
-            <Word namedEntity="true">Austria-Hungary</Word>
-            <Punctuation> </Punctuation>
-            <Word>delivered</Word>
-            <Punctuation> </Punctuation>
-            <Word>an</Word>
-            <Punctuation> </Punctuation>
-            <Word>ultimatum</Word>
-            <Punctuation> </Punctuation>
-            <Word>to</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>Kingdom</Word>
-            <Punctuation> </Punctuation>
-            <Word>of</Word>
-            <Punctuation> </Punctuation>
-            <Word namedEntity="true">Serbia</Word>
-            <Punctuation>,</Punctuation>
-            <Punctuation> </Punctuation>
-            <Word>and</Word>
-            <Punctuation> </Punctuation>
-            <Word>entangled</Word>
-            <Punctuation> </Punctuation>
-            <Word>international</Word>
-            <Punctuation> </Punctuation>
-            <Word>alliances</Word>
-            <Punctuation> </Punctuation>
-            <Word>formed</Word>
-            <Punctuation> </Punctuation>
-            <Word>over</Word>
-            <Punctuation> </Punctuation>
-            <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>previous</Word>
-            <Punctuation> </Punctuation>
-            <Word>decades</Word>
-            <Punctuation> </Punctuation>
-            <Word>were</Word>
-            <Punctuation> </Punctuation>
-            <Word>invoked</Word>
+            <Punctuation> </Punctuation>
+            <Word>Scottish</Word>
+            <Punctuation> </Punctuation>
+            <Word>mathematical</Word>
+            <Punctuation> </Punctuation>
+            <Word>physicist</Word>
             <Punctuation>.</Punctuation>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
         </Sentence>
         <Sentence>
-            <Word>Within</Word>
-            <Punctuation> </Punctuation>
-            <Word>weeks</Word>
+            <Word>His</Word>
+            <Punctuation> </Punctuation>
+            <Word>most</Word>
+            <Punctuation> </Punctuation>
+            <Word>notable</Word>
+            <Punctuation> </Punctuation>
+            <Word>achievement</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>formulate</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>classical</Word>
+            <Punctuation> </Punctuation>
+            <Word>theory</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>electromagnetic</Word>
+            <Punctuation> </Punctuation>
+            <Word>radiation</Word>
             <Punctuation>,</Punctuation>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>bringing</Word>
+            <Punctuation> </Punctuation>
+            <Word>together</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
             <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>major</Word>
-            <Punctuation> </Punctuation>
-            <Word>powers</Word>
-            <Punctuation> </Punctuation>
-            <Word>were</Word>
-            <Punctuation> </Punctuation>
-            <Word>at</Word>
-            <Punctuation> </Punctuation>
-            <Word>war</Word>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>first</Word>
+            <Punctuation> </Punctuation>
+            <Word>time</Word>
+            <Punctuation> </Punctuation>
+            <Word>electricity</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>magnetism</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
             <Word>and</Word>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>light</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>manifestations</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
             <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>conflict</Word>
-            <Punctuation> </Punctuation>
-            <Word>soon</Word>
-            <Punctuation> </Punctuation>
-            <Word>spread</Word>
-            <Punctuation> </Punctuation>
-            <Word>around</Word>
-            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>same</Word>
+            <Punctuation> </Punctuation>
+            <Word>phenomenon</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Maxwell</Word>
+            <Punctuation>'</Punctuation>
+            <Word>s</Word>
+            <Punctuation> </Punctuation>
+            <Word>equations</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>electromagnetism</Word>
+            <Punctuation> </Punctuation>
+            <Word>have</Word>
+            <Punctuation> </Punctuation>
+            <Word>been</Word>
+            <Punctuation> </Punctuation>
+            <Word>called</Word>
+            <Punctuation> </Punctuation>
             <Word>the</Word>
-            <Punctuation> </Punctuation>
-            <Word>world</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>"</Punctuation>
+            <Word>second</Word>
+            <Punctuation> </Punctuation>
+            <Word>great</Word>
+            <Punctuation> </Punctuation>
+            <Word>unification</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>physics</Word>
+            <Punctuation>"</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>after</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>first</Word>
+            <Punctuation> </Punctuation>
+            <Word>one</Word>
+            <Punctuation> </Punctuation>
+            <Word>realised</Word>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word>Isaac</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Newton</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation>.</Punctuation>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Maxwell</Word>
+            <Punctuation> </Punctuation>
+            <Word>demonstrated</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>electric</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>magnetic</Word>
+            <Punctuation> </Punctuation>
+            <Word>fields</Word>
+            <Punctuation> </Punctuation>
+            <Word>travel</Word>
+            <Punctuation> </Punctuation>
+            <Word>through</Word>
+            <Punctuation> </Punctuation>
+            <Word>space</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>waves</Word>
+            <Punctuation> </Punctuation>
+            <Word>moving</Word>
+            <Punctuation> </Punctuation>
+            <Word>at</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>speed</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>light</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Maxwell</Word>
+            <Punctuation> </Punctuation>
+            <Word>proposed</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>light</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>an</Word>
+            <Punctuation> </Punctuation>
+            <Word>undulation</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>same</Word>
+            <Punctuation> </Punctuation>
+            <Word>medium</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>cause</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>electric</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>magnetic</Word>
+            <Punctuation> </Punctuation>
+            <Word>phenomena</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word>unification</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>light</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>electrical</Word>
+            <Punctuation> </Punctuation>
+            <Word>phenomena</Word>
+            <Punctuation> </Punctuation>
+            <Word>led</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>prediction</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>existence</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>radio</Word>
+            <Punctuation> </Punctuation>
+            <Word>waves</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>His</Word>
+            <Punctuation> </Punctuation>
+            <Word>discoveries</Word>
+            <Punctuation> </Punctuation>
+            <Word>helped</Word>
+            <Punctuation> </Punctuation>
+            <Word>usher</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>era</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>modern</Word>
+            <Punctuation> </Punctuation>
+            <Word>physics</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>laying</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>foundation</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>such</Word>
+            <Punctuation> </Punctuation>
+            <Word>fields</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>special</Word>
+            <Punctuation> </Punctuation>
+            <Word>relativity</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>quantum</Word>
+            <Punctuation> </Punctuation>
+            <Word>mechanics</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>His</Word>
+            <Punctuation> </Punctuation>
+            <Word>contributions</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>science</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>considered</Word>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Word>many</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>be</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>same</Word>
+            <Punctuation> </Punctuation>
+            <Word>magnitude</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>those</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>Isaac</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Newton</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Albert Einstein</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word namedEntity="true">Wales</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>stone</Word>
+            <Punctuation> </Punctuation>
+            <Word>masonry</Word>
+            <Punctuation> </Punctuation>
+            <Word>castle</Word>
+            <Punctuation> </Punctuation>
+            <Word>looking</Word>
+            <Punctuation> </Punctuation>
+            <Word>over</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>town</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>Montgomery</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Powys</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Montgomery Castle</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>It</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>one</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>many</Word>
+            <Punctuation> </Punctuation>
+            <Word>Norman</Word>
+            <Punctuation> </Punctuation>
+            <Word>castles</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>border</Word>
+            <Punctuation> </Punctuation>
+            <Word>between</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Wales</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">England</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word>original</Word>
+            <Punctuation> </Punctuation>
+            <Word>castle</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>built</Word>
+            <Punctuation> </Punctuation>
+            <Word>at</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>order</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Shrewsbury</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>earl</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Roger de Montgomery</Word>
+            <Punctuation> </Punctuation>
+            <Word>sometime</Word>
+            <Punctuation> </Punctuation>
+            <Word>between</Word>
+            <Punctuation> </Punctuation>
+            <Word>1071</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>1074</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>On</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>rebellion</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>his</Word>
+            <Punctuation> </Punctuation>
+            <Word>son</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Robert of Belleme</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>1102</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>castle</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>given</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>Baldwin</Word>
+            <Punctuation> </Punctuation>
+            <Word>de</Word>
+            <Punctuation> </Punctuation>
+            <Word>Boulers</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>In</Word>
+            <Punctuation> </Punctuation>
+            <Word>1267</Word>
+            <Punctuation> </Punctuation>
+            <Word>Montgomery</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>meeting</Word>
+            <Punctuation> </Punctuation>
+            <Word>place</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>treaty</Word>
+            <Punctuation> </Punctuation>
+            <Word>negotiations</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>where</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Wales</Word>
+            <Punctuation> </Punctuation>
+            <Word>granted</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Llywelyn ap Gruffudd</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>title</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>Prince</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">King Henry III</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>After</Word>
+            <Punctuation> </Punctuation>
+            <Word>1295</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>final</Word>
+            <Punctuation> </Punctuation>
+            <Word>Welsh</Word>
+            <Punctuation> </Punctuation>
+            <Word>War</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>thirteenth</Word>
+            <Punctuation> </Punctuation>
+            <Word>century</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>castle</Word>
+            <Punctuation> </Punctuation>
+            <Word>became</Word>
+            <Punctuation> </Punctuation>
+            <Word>more</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>military</Word>
+            <Punctuation> </Punctuation>
+            <Word>backwater</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>prison</Word>
+            <Punctuation> </Punctuation>
+            <Word>than</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>front</Word>
+            <Punctuation> </Punctuation>
+            <Word>line</Word>
+            <Punctuation> </Punctuation>
+            <Word>fortress</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word namedEntity="true">Euclid</Word>
+            <Punctuation>'</Punctuation>
+            <Word>s</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Elements</Word>
+            <Punctuation> </Punctuation>
+            <Word>has</Word>
+            <Punctuation> </Punctuation>
+            <Word>been</Word>
+            <Punctuation> </Punctuation>
+            <Word>referred</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>most</Word>
+            <Punctuation> </Punctuation>
+            <Word>successful</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>influential</Word>
+            <Punctuation> </Punctuation>
+            <Word>textbook</Word>
+            <Punctuation> </Punctuation>
+            <Word>ever</Word>
+            <Punctuation> </Punctuation>
+            <Word>written</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>First</Word>
+            <Punctuation> </Punctuation>
+            <Word>set</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>type</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Venice</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>1482</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>it</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>one</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>very</Word>
+            <Punctuation> </Punctuation>
+            <Word>earliest</Word>
+            <Punctuation> </Punctuation>
+            <Word>mathematical</Word>
+            <Punctuation> </Punctuation>
+            <Word>works</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>be</Word>
+            <Punctuation> </Punctuation>
+            <Word>printed</Word>
+            <Punctuation> </Punctuation>
+            <Word>after</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>invention</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>printing</Word>
+            <Punctuation> </Punctuation>
+            <Word>press</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>estimated</Word>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Carl Benjamin Boyer</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>be</Word>
+            <Punctuation> </Punctuation>
+            <Word>second</Word>
+            <Punctuation> </Punctuation>
+            <Word>only</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Bible</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>number</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>editions</Word>
+            <Punctuation> </Punctuation>
+            <Word>published</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>with</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>number</Word>
+            <Punctuation> </Punctuation>
+            <Word>reaching</Word>
+            <Punctuation> </Punctuation>
+            <Word>well</Word>
+            <Punctuation> </Punctuation>
+            <Word>over</Word>
+            <Punctuation> </Punctuation>
+            <Word>one</Word>
+            <Punctuation> </Punctuation>
+            <Word>thousand</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>For</Word>
+            <Punctuation> </Punctuation>
+            <Word>centuries</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>knowledge</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>at</Word>
+            <Punctuation> </Punctuation>
+            <Word>least</Word>
+            <Punctuation> </Punctuation>
+            <Word>part</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Elements</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>required</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>all</Word>
+            <Punctuation> </Punctuation>
+            <Word>students</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Not</Word>
+            <Punctuation> </Punctuation>
+            <Word>until</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>20th</Word>
+            <Punctuation> </Punctuation>
+            <Word>century</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Word>which</Word>
+            <Punctuation> </Punctuation>
+            <Word>time</Word>
+            <Punctuation> </Punctuation>
+            <Word>its</Word>
+            <Punctuation> </Punctuation>
+            <Word>content</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>universally</Word>
+            <Punctuation> </Punctuation>
+            <Word>taught</Word>
+            <Punctuation> </Punctuation>
+            <Word>through</Word>
+            <Punctuation> </Punctuation>
+            <Word>other</Word>
+            <Punctuation> </Punctuation>
+            <Word>school</Word>
+            <Punctuation> </Punctuation>
+            <Word>textbooks</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>did</Word>
+            <Punctuation> </Punctuation>
+            <Word>it</Word>
+            <Punctuation> </Punctuation>
+            <Word>cease</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>be</Word>
+            <Punctuation> </Punctuation>
+            <Word>considered</Word>
+            <Punctuation> </Punctuation>
+            <Word>something</Word>
+            <Punctuation> </Punctuation>
+            <Word>all</Word>
+            <Punctuation> </Punctuation>
+            <Word>educated</Word>
+            <Punctuation> </Punctuation>
+            <Word>people</Word>
+            <Punctuation> </Punctuation>
+            <Word>had</Word>
+            <Punctuation> </Punctuation>
+            <Word>read</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Broyden–Fletcher–Goldfarb–Shanno</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>(</Punctuation>
+            <Word namedEntity="true">BFGS</Word>
+            <Punctuation>)</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>algorithm</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>an</Word>
+            <Punctuation> </Punctuation>
+            <Word>iterative</Word>
+            <Punctuation> </Punctuation>
+            <Word>method</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>solving</Word>
+            <Punctuation> </Punctuation>
+            <Word>unconstrained</Word>
+            <Punctuation> </Punctuation>
+            <Word>nonlinear</Word>
+            <Punctuation> </Punctuation>
+            <Word>optimization</Word>
+            <Punctuation> </Punctuation>
+            <Word>problems</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Newton</Word>
+            <Punctuation> </Punctuation>
+            <Word>method</Word>
+            <Punctuation> </Punctuation>
+            <Word>approximates</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">BFGS</Word>
+            <Punctuation>'</Punctuation>
+            <Word>s</Word>
+            <Punctuation> </Punctuation>
+            <Word>method</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>class</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>hill</Word>
+            <Punctuation>-</Punctuation>
+            <Word>climbing</Word>
+            <Punctuation> </Punctuation>
+            <Word>optimization</Word>
+            <Punctuation> </Punctuation>
+            <Word>techniques</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>seeks</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>stationary</Word>
+            <Punctuation> </Punctuation>
+            <Word>point</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>(</Punctuation>
+            <Word>preferably</Word>
+            <Punctuation> </Punctuation>
+            <Word>twice</Word>
+            <Punctuation> </Punctuation>
+            <Word>continuously</Word>
+            <Punctuation> </Punctuation>
+            <Word>differentiable</Word>
+            <Punctuation>)</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>function</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>For</Word>
+            <Punctuation> </Punctuation>
+            <Word>such</Word>
+            <Punctuation> </Punctuation>
+            <Word>problems</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>necessary</Word>
+            <Punctuation> </Punctuation>
+            <Word>condition</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>optimality</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>gradient</Word>
+            <Punctuation> </Punctuation>
+            <Word>be</Word>
+            <Punctuation> </Punctuation>
+            <Word>zero</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word namedEntity="true">Newton</Word>
+            <Punctuation>'</Punctuation>
+            <Word>s</Word>
+            <Punctuation> </Punctuation>
+            <Word>method</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">BFGS</Word>
+            <Punctuation> </Punctuation>
+            <Word>methods</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>not</Word>
+            <Punctuation> </Punctuation>
+            <Word>guaranteed</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>converge</Word>
+            <Punctuation> </Punctuation>
+            <Word>unless</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>function</Word>
+            <Punctuation> </Punctuation>
+            <Word>has</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>quadratic</Word>
+            <Punctuation> </Punctuation>
+            <Word>Taylor</Word>
+            <Punctuation> </Punctuation>
+            <Word>expansion</Word>
+            <Punctuation> </Punctuation>
+            <Word>near</Word>
+            <Punctuation> </Punctuation>
+            <Word>an</Word>
+            <Punctuation> </Punctuation>
+            <Word>optimum</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>These</Word>
+            <Punctuation> </Punctuation>
+            <Word>methods</Word>
+            <Punctuation> </Punctuation>
+            <Word>use</Word>
+            <Punctuation> </Punctuation>
+            <Word>both</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>first</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>second</Word>
+            <Punctuation> </Punctuation>
+            <Word>derivatives</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>function</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>However</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">BFGS</Word>
+            <Punctuation> </Punctuation>
+            <Word>has</Word>
+            <Punctuation> </Punctuation>
+            <Word>proven</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>have</Word>
+            <Punctuation> </Punctuation>
+            <Word>good</Word>
+            <Punctuation> </Punctuation>
+            <Word>performance</Word>
+            <Punctuation> </Punctuation>
+            <Word>even</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>non</Word>
+            <Punctuation>-</Punctuation>
+            <Word>smooth</Word>
+            <Punctuation> </Punctuation>
+            <Word>optimizations</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word namedEntity="true">Neil Armstrong</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>spaceflight</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>landed</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>first</Word>
+            <Punctuation> </Punctuation>
+            <Word>humans</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Moon</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>Americans</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Buzz Aldrin</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Apollo 11</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>July</Word>
+            <Punctuation> </Punctuation>
+            <Word>20</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>1969</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Armstrong</Word>
+            <Punctuation> </Punctuation>
+            <Word>became</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>first</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>step</Word>
+            <Punctuation> </Punctuation>
+            <Word>onto</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>surface</Word>
+            <Punctuation> </Punctuation>
+            <Word>six</Word>
+            <Punctuation> </Punctuation>
+            <Word>hours</Word>
+            <Punctuation> </Punctuation>
+            <Word>later</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Armstrong</Word>
+            <Punctuation> </Punctuation>
+            <Word>spent</Word>
+            <Punctuation> </Punctuation>
+            <Word>about</Word>
+            <Punctuation> </Punctuation>
+            <Word>two</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>half</Word>
+            <Punctuation> </Punctuation>
+            <Word>hours</Word>
+            <Punctuation> </Punctuation>
+            <Word>outside</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>spacecraft</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>Aldrin</Word>
+            <Punctuation> </Punctuation>
+            <Word>slightly</Word>
+            <Punctuation> </Punctuation>
+            <Word>less</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>together</Word>
+            <Punctuation> </Punctuation>
+            <Word>they</Word>
+            <Punctuation> </Punctuation>
+            <Word>collected</Word>
+            <Punctuation> </Punctuation>
+            <Word>47</Word>
+            <Punctuation>.</Punctuation>
+            <Word>5</Word>
+            <Punctuation> </Punctuation>
+            <Word>pounds</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>(</Punctuation>
+            <Word>21</Word>
+            <Punctuation>.</Punctuation>
+            <Word>5</Word>
+            <Punctuation> </Punctuation>
+            <Word>kg</Word>
+            <Punctuation>)</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>material</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>return</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Earth</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word>third</Word>
+            <Punctuation> </Punctuation>
+            <Word>member</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>mission</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Michael Collins</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>piloted</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>command</Word>
+            <Punctuation> </Punctuation>
+            <Word>spacecraft</Word>
+            <Punctuation> </Punctuation>
+            <Word>alone</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>orbit</Word>
+            <Punctuation> </Punctuation>
+            <Word>until</Word>
+            <Punctuation> </Punctuation>
+            <Word>Armstrong</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>Aldrin</Word>
+            <Punctuation> </Punctuation>
+            <Word>returned</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>it</Word>
+            <Punctuation> </Punctuation>
+            <Word>just</Word>
+            <Punctuation> </Punctuation>
+            <Word>under</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>day</Word>
+            <Punctuation> </Punctuation>
+            <Word>later</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>trip</Word>
+            <Punctuation> </Punctuation>
+            <Word>back</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Earth</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Olympic Games</Word>
+            <Punctuation> </Punctuation>
+            <Word>mechanism</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>an</Word>
+            <Punctuation> </Punctuation>
+            <Word>ancient</Word>
+            <Punctuation> </Punctuation>
+            <Word>analog</Word>
+            <Punctuation> </Punctuation>
+            <Word>computer</Word>
+            <Punctuation> </Punctuation>
+            <Word>designed</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>predict</Word>
+            <Punctuation> </Punctuation>
+            <Word>astronomical</Word>
+            <Punctuation> </Punctuation>
+            <Word>positions</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>eclipses</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>calendrical</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>astrological</Word>
+            <Punctuation> </Punctuation>
+            <Word>purposes</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>well</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>cycles</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Antikythera</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word>Found</Word>
+            <Punctuation> </Punctuation>
+            <Word>housed</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>340</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>×</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>180</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>×</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>90</Word>
+            <Punctuation> </Punctuation>
+            <Word>mm</Word>
+            <Punctuation> </Punctuation>
+            <Word>wooden</Word>
+            <Punctuation> </Punctuation>
+            <Word>box</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>device</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>complex</Word>
+            <Punctuation> </Punctuation>
+            <Word>clockwork</Word>
+            <Punctuation> </Punctuation>
+            <Word>mechanism</Word>
+            <Punctuation> </Punctuation>
+            <Word>composed</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>at</Word>
+            <Punctuation> </Punctuation>
+            <Word>least</Word>
+            <Punctuation> </Punctuation>
+            <Word>30</Word>
+            <Punctuation> </Punctuation>
+            <Word>meshing</Word>
+            <Punctuation> </Punctuation>
+            <Word>bronze</Word>
+            <Punctuation> </Punctuation>
+            <Word>gears</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Its</Word>
+            <Punctuation> </Punctuation>
+            <Word>remains</Word>
+            <Punctuation> </Punctuation>
+            <Word>were</Word>
+            <Punctuation> </Punctuation>
+            <Word>found</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>82</Word>
+            <Punctuation> </Punctuation>
+            <Word>separate</Word>
+            <Punctuation> </Punctuation>
+            <Word>fragments</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>which</Word>
+            <Punctuation> </Punctuation>
+            <Word>only</Word>
+            <Punctuation> </Punctuation>
+            <Word>seven</Word>
+            <Punctuation> </Punctuation>
+            <Word>contain</Word>
+            <Punctuation> </Punctuation>
+            <Word>any</Word>
+            <Punctuation> </Punctuation>
+            <Word>gears</Word>
+            <Punctuation> </Punctuation>
+            <Word>or</Word>
+            <Punctuation> </Punctuation>
+            <Word>significant</Word>
+            <Punctuation> </Punctuation>
+            <Word>inscriptions</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word>largest</Word>
+            <Punctuation> </Punctuation>
+            <Word>gear</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>approximately</Word>
+            <Punctuation> </Punctuation>
+            <Word>140</Word>
+            <Punctuation> </Punctuation>
+            <Word>mm</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>diameter</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word>artifact</Word>
+            <Punctuation> </Punctuation>
+            <Word>was</Word>
+            <Punctuation> </Punctuation>
+            <Word>recovered</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>1901</Word>
+            <Punctuation> </Punctuation>
+            <Word>from</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Antikythera</Word>
+            <Punctuation> </Punctuation>
+            <Word>shipwreck</Word>
+            <Punctuation> </Punctuation>
+            <Word>off</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>Greek</Word>
+            <Punctuation> </Punctuation>
+            <Word>island</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>Antikythera</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Believed</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>have</Word>
+            <Punctuation> </Punctuation>
+            <Word>been</Word>
+            <Punctuation> </Punctuation>
+            <Word>designed</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>constructed</Word>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Word>Greek</Word>
+            <Punctuation> </Punctuation>
+            <Word>scientists</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>instrument</Word>
+            <Punctuation> </Punctuation>
+            <Word>has</Word>
+            <Punctuation> </Punctuation>
+            <Word>been</Word>
+            <Punctuation> </Punctuation>
+            <Word>dated</Word>
+            <Punctuation> </Punctuation>
+            <Word>either</Word>
+            <Punctuation> </Punctuation>
+            <Word>between</Word>
+            <Punctuation> </Punctuation>
+            <Word>150</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>100</Word>
+            <Punctuation> </Punctuation>
+            <Word>BC</Word>
+            <Punctuation> </Punctuation>
+            <Word>or</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>according</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>more</Word>
+            <Punctuation> </Punctuation>
+            <Word>recent</Word>
+            <Punctuation> </Punctuation>
+            <Word>view</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>at</Word>
+            <Punctuation> </Punctuation>
+            <Word>205</Word>
+            <Punctuation> </Punctuation>
+            <Word>BC</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word>The</Word>
+            <Punctuation> </Punctuation>
+            <Word>Apollo</Word>
+            <Punctuation> </Punctuation>
+            <Word>spacecraft</Word>
+            <Punctuation> </Punctuation>
+            <Word>had</Word>
+            <Punctuation> </Punctuation>
+            <Word>three</Word>
+            <Punctuation> </Punctuation>
+            <Word>parts</Word>
+            <Punctuation>:</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>Command</Word>
+            <Punctuation> </Punctuation>
+            <Word>Module</Word>
+            <Punctuation> </Punctuation>
+            <Word>with</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>cabin</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>three</Word>
+            <Punctuation> </Punctuation>
+            <Word>astronauts</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>only</Word>
+            <Punctuation> </Punctuation>
+            <Word>part</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>landed</Word>
+            <Punctuation> </Punctuation>
+            <Word>back</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Moon</Word>
+            <Punctuation>;</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>Service</Word>
+            <Punctuation> </Punctuation>
+            <Word>Module</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>which</Word>
+            <Punctuation> </Punctuation>
+            <Word>supported</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>Command</Word>
+            <Punctuation> </Punctuation>
+            <Word>Module</Word>
+            <Punctuation> </Punctuation>
+            <Word>with</Word>
+            <Punctuation> </Punctuation>
+            <Word>propulsion</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>electrical</Word>
+            <Punctuation> </Punctuation>
+            <Word>power</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>oxygen</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>water</Word>
+            <Punctuation>;</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>Lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>Module</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>landing</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Earth</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>After</Word>
+            <Punctuation> </Punctuation>
+            <Word>being</Word>
+            <Punctuation> </Punctuation>
+            <Word>sent</Word>
+            <Punctuation> </Punctuation>
+            <Word>toward</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Moon</Word>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>Saturn</Word>
+            <Punctuation> </Punctuation>
+            <Word>V</Word>
+            <Punctuation>'</Punctuation>
+            <Word>s</Word>
+            <Punctuation> </Punctuation>
+            <Word>upper</Word>
+            <Punctuation> </Punctuation>
+            <Word>stage</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>astronauts</Word>
+            <Punctuation> </Punctuation>
+            <Word>separated</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>spacecraft</Word>
+            <Punctuation> </Punctuation>
+            <Word>from</Word>
+            <Punctuation> </Punctuation>
+            <Word>it</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>traveled</Word>
+            <Punctuation> </Punctuation>
+            <Word>for</Word>
+            <Punctuation> </Punctuation>
+            <Word>three</Word>
+            <Punctuation> </Punctuation>
+            <Word>days</Word>
+            <Punctuation> </Punctuation>
+            <Word>until</Word>
+            <Punctuation> </Punctuation>
+            <Word>they</Word>
+            <Punctuation> </Punctuation>
+            <Word>entered</Word>
+            <Punctuation> </Punctuation>
+            <Word>into</Word>
+            <Punctuation> </Punctuation>
+            <Word>lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>orbit</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Armstrong</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>Aldrin</Word>
+            <Punctuation> </Punctuation>
+            <Word>then</Word>
+            <Punctuation> </Punctuation>
+            <Word>moved</Word>
+            <Punctuation> </Punctuation>
+            <Word>into</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>Lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>Module</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>landed</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Sea of Tranquility</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>They</Word>
+            <Punctuation> </Punctuation>
+            <Word>stayed</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>total</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>about</Word>
+            <Punctuation> </Punctuation>
+            <Word>21</Word>
+            <Punctuation>.</Punctuation>
+            <Word>5</Word>
+            <Punctuation> </Punctuation>
+            <Word>hours</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>surface</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>After</Word>
+            <Punctuation> </Punctuation>
+            <Word>lifting</Word>
+            <Punctuation> </Punctuation>
+            <Word>off</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>upper</Word>
+            <Punctuation> </Punctuation>
+            <Word>part</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>Lunar</Word>
+            <Punctuation> </Punctuation>
+            <Word>Module</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>rejoining</Word>
+            <Punctuation> </Punctuation>
+            <Word>Collins</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>Command</Word>
+            <Punctuation> </Punctuation>
+            <Word>Module</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>they</Word>
+            <Punctuation> </Punctuation>
+            <Word>returned</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Pacific Ocean</Word>
+            <Punctuation> </Punctuation>
+            <Word>and</Word>
+            <Punctuation> </Punctuation>
+            <Word>landed</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word namedEntity="true">Earth</Word>
+            <Punctuation> </Punctuation>
+            <Word>on</Word>
+            <Punctuation> </Punctuation>
+            <Word>July</Word>
+            <Punctuation> </Punctuation>
+            <Word>24</Word>
+            <Punctuation>.</Punctuation>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word>A</Word>
+            <Punctuation> </Punctuation>
+            <Word>differentiable</Word>
+            <Punctuation> </Punctuation>
+            <Word>manifold</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>type</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>manifold</Word>
+            <Punctuation> </Punctuation>
+            <Word>that</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>locally</Word>
+            <Punctuation> </Punctuation>
+            <Word>similar</Word>
+            <Punctuation> </Punctuation>
+            <Word>enough</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>linear</Word>
+            <Punctuation> </Punctuation>
+            <Word>space</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>allow</Word>
+            <Punctuation> </Punctuation>
+            <Word>one</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>do</Word>
+            <Punctuation> </Punctuation>
+            <Word>calculus</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>Any</Word>
+            <Punctuation> </Punctuation>
+            <Word>manifold</Word>
+            <Punctuation> </Punctuation>
+            <Word>can</Word>
+            <Punctuation> </Punctuation>
+            <Word>be</Word>
+            <Punctuation> </Punctuation>
+            <Word>described</Word>
+            <Punctuation> </Punctuation>
+            <Word>by</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>collection</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>charts</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>also</Word>
+            <Punctuation> </Punctuation>
+            <Word>known</Word>
+            <Punctuation> </Punctuation>
+            <Word>as</Word>
+            <Punctuation> </Punctuation>
+            <Word>an</Word>
+            <Punctuation> </Punctuation>
+            <Word>atlas</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>One</Word>
+            <Punctuation> </Punctuation>
+            <Word>may</Word>
+            <Punctuation> </Punctuation>
+            <Word>then</Word>
+            <Punctuation> </Punctuation>
+            <Word>apply</Word>
+            <Punctuation> </Punctuation>
+            <Word>ideas</Word>
+            <Punctuation> </Punctuation>
+            <Word>from</Word>
+            <Punctuation> </Punctuation>
+            <Word>calculus</Word>
+            <Punctuation> </Punctuation>
+            <Word>while</Word>
+            <Punctuation> </Punctuation>
+            <Word>working</Word>
+            <Punctuation> </Punctuation>
+            <Word>within</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>individual</Word>
+            <Punctuation> </Punctuation>
+            <Word>charts</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>since</Word>
+            <Punctuation> </Punctuation>
+            <Word>each</Word>
+            <Punctuation> </Punctuation>
+            <Word>chart</Word>
+            <Punctuation> </Punctuation>
+            <Word>lies</Word>
+            <Punctuation> </Punctuation>
+            <Word>within</Word>
+            <Punctuation> </Punctuation>
+            <Word>a</Word>
+            <Punctuation> </Punctuation>
+            <Word>linear</Word>
+            <Punctuation> </Punctuation>
+            <Word>space</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>which</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>usual</Word>
+            <Punctuation> </Punctuation>
+            <Word>rules</Word>
+            <Punctuation> </Punctuation>
+            <Word>of</Word>
+            <Punctuation> </Punctuation>
+            <Word>calculus</Word>
+            <Punctuation> </Punctuation>
+            <Word>apply</Word>
+            <Punctuation>.</Punctuation>
+            <Punctuation> </Punctuation>
+        </Sentence>
+        <Sentence>
+            <Word>If</Word>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>charts</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>suitably</Word>
+            <Punctuation> </Punctuation>
+            <Word>compatible</Word>
+            <Punctuation> </Punctuation>
+            <Punctuation>(</Punctuation>
+            <Word>namely</Word>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>the</Word>
+            <Punctuation> </Punctuation>
+            <Word>transition</Word>
+            <Punctuation> </Punctuation>
+            <Word>from</Word>
+            <Punctuation> </Punctuation>
+            <Word>one</Word>
+            <Punctuation> </Punctuation>
+            <Word>chart</Word>
+            <Punctuation> </Punctuation>
+            <Word>to</Word>
+            <Punctuation> </Punctuation>
+            <Word>another</Word>
+            <Punctuation> </Punctuation>
+            <Word>is</Word>
+            <Punctuation> </Punctuation>
+            <Word>differentiable</Word>
+            <Punctuation>)</Punctuation>
+            <Punctuation>,</Punctuation>
+            <Punctuation> </Punctuation>
+            <Word>then</Word>
+            <Punctuation> </Punctuation>
+            <Word>computations</Word>
+            <Punctuation> </Punctuation>
+            <Word>done</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>one</Word>
+            <Punctuation> </Punctuation>
+            <Word>chart</Word>
+            <Punctuation> </Punctuation>
+            <Word>are</Word>
+            <Punctuation> </Punctuation>
+            <Word>valid</Word>
+            <Punctuation> </Punctuation>
+            <Word>in</Word>
+            <Punctuation> </Punctuation>
+            <Word>any</Word>
+            <Punctuation> </Punctuation>
+            <Word>other</Word>
+            <Punctuation> </Punctuation>
+            <Word>differentiable</Word>
+            <Punctuation> </Punctuation>
+            <Word>chart</Word>
             <Punctuation>.</Punctuation>
         </Sentence>
     </Paragraph>

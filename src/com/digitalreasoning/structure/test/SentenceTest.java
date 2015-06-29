@@ -26,4 +26,11 @@ public class SentenceTest {
         assertEquals(10, wordCount);
         assertEquals(10, puncCount);
     }
+
+    @Test
+    public void toStringTest(){
+        String s = "I am the entire sentence with punctuations and \"quotes\"!";
+        Sentence sentence = new Sentence(s);
+        assertEquals(s, sentence.toString());
+    }
 }
