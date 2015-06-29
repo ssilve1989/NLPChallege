@@ -323,7 +323,7 @@
             <Punctuation> </Punctuation>
             <Word>in</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Japan</Word>
+            <Word namedEntity="true">North America</Word>
             <Punctuation> </Punctuation>
             <Word>and</Word>
             <Punctuation> </Punctuation>
@@ -339,7 +339,7 @@
             <Punctuation> </Punctuation>
             <Word>of</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">North America</Word>
+            <Word namedEntity="true">Japan</Word>
             <Punctuation>.</Punctuation>
             <Punctuation> </Punctuation>
         </Sentence>
@@ -836,7 +836,7 @@
     </Paragraph>
     <Paragraph>
         <Sentence>
-            <Word namedEntity="true">Montgomery Castle</Word>
+            <Word namedEntity="true">Wales</Word>
             <Punctuation> </Punctuation>
             <Word>is</Word>
             <Punctuation> </Punctuation>
@@ -865,7 +865,7 @@
             <Word namedEntity="true">Powys</Word>
             <Punctuation>,</Punctuation>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Wales</Word>
+            <Word namedEntity="true">Montgomery Castle</Word>
             <Punctuation>.</Punctuation>
             <Punctuation> </Punctuation>
         </Sentence>
@@ -919,14 +919,14 @@
             <Punctuation> </Punctuation>
             <Word>of</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Roger de Montgomery</Word>
+            <Word namedEntity="true">Shrewsbury</Word>
             <Punctuation>,</Punctuation>
             <Punctuation> </Punctuation>
             <Word>earl</Word>
             <Punctuation> </Punctuation>
             <Word>of</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Shrewsbury</Word>
+            <Word namedEntity="true">Roger de Montgomery</Word>
             <Punctuation> </Punctuation>
             <Word>sometime</Word>
             <Punctuation> </Punctuation>
@@ -1006,7 +1006,7 @@
             <Punctuation> </Punctuation>
             <Word>granted</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">King Henry III</Word>
+            <Word namedEntity="true">Llywelyn ap Gruffudd</Word>
             <Punctuation> </Punctuation>
             <Word>the</Word>
             <Punctuation> </Punctuation>
@@ -1018,7 +1018,7 @@
             <Punctuation> </Punctuation>
             <Word>of</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Llywelyn ap Gruffudd</Word>
+            <Word namedEntity="true">King Henry III</Word>
             <Punctuation>.</Punctuation>
             <Punctuation> </Punctuation>
         </Sentence>
@@ -1553,7 +1553,7 @@
     </Paragraph>
     <Paragraph>
         <Sentence>
-            <Word namedEntity="true">Apollo 11</Word>
+            <Word namedEntity="true">Neil Armstrong</Word>
             <Punctuation> </Punctuation>
             <Word>was</Word>
             <Punctuation> </Punctuation>
@@ -1575,7 +1575,7 @@
             <Punctuation> </Punctuation>
             <Word>the</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Neil Armstrong</Word>
+            <Word namedEntity="true">Moon</Word>
             <Punctuation>,</Punctuation>
             <Punctuation> </Punctuation>
             <Word>Americans</Word>
@@ -1584,7 +1584,7 @@
             <Punctuation> </Punctuation>
             <Word>and</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Moon</Word>
+            <Word namedEntity="true">Apollo 11</Word>
             <Punctuation>,</Punctuation>
             <Punctuation> </Punctuation>
             <Word>on</Word>
@@ -1772,7 +1772,7 @@
         <Sentence>
             <Word>The</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Antikythera</Word>
+            <Word namedEntity="true">Olympic Games</Word>
             <Punctuation> </Punctuation>
             <Word>mechanism</Word>
             <Punctuation> </Punctuation>
@@ -1823,7 +1823,7 @@
             <Punctuation> </Punctuation>
             <Word>of</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Olympic Games</Word>
+            <Word namedEntity="true">Antikythera</Word>
             <Punctuation>.</Punctuation>
         </Sentence>
     </Paragraph>
@@ -2333,7 +2333,7 @@
             <Punctuation> </Punctuation>
             <Word>to</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Earth</Word>
+            <Word namedEntity="true">Pacific Ocean</Word>
             <Punctuation> </Punctuation>
             <Word>and</Word>
             <Punctuation> </Punctuation>
@@ -2343,7 +2343,7 @@
             <Punctuation> </Punctuation>
             <Word>the</Word>
             <Punctuation> </Punctuation>
-            <Word namedEntity="true">Pacific Ocean</Word>
+            <Word namedEntity="true">Earth</Word>
             <Punctuation> </Punctuation>
             <Word>on</Word>
             <Punctuation> </Punctuation>
