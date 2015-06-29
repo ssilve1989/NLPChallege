@@ -24,13 +24,9 @@ In this task it stores the lines of text into a Collection.
 ```java
 @Override
 protected void beforeTask() throws IOException {
-    try{
         lines = Files.lines(Paths.get(this.input))
                 .filter(p -> !p.trim().isEmpty())
                 .collect(Collectors.toList());
-    }catch(IOException e){
-        e.printStackTrace();
-    }
 }
 ```
 
@@ -93,6 +89,9 @@ This task introduces a named entity list in which we need to verify against as w
 
 **Task 3**
 ----------
+
+Commit: Master branch contains the most up to date code.
+
 1. Modify your program from #2 to use "nlp_data.zip" as its input. Use a thread pool to parallelize the processing of the text files contained in the zip. Aggregate the results and modify the output schema accordingly.
 
 This task introduces a series of files to be read in parallel. The biggest change here is to `ChallengeTask.runTask()`. This method now creates a thread pool whose size is equal to the amount of files to be processed. I use the Java 8 `Future`class to process all the data in parallel and when the computation is complete we render the data into XML. It also utilizes a threadsafe collection `LinkedBlockingDeque'
