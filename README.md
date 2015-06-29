@@ -95,14 +95,14 @@ This task introduces a named entity list in which we need to verify against as w
 ----------
 1. Modify your program from #2 to use "nlp_data.zip" as its input. Use a thread pool to parallelize the processing of the text files contained in the zip. Aggregate the results and modify the output schema accordingly.
 
-This task introduces a series of files to be read in parallel. The biggest change here is to `ChallengeTask.runTask()`. This method now creates a thread pool whose size is equal to the amount of files to be processed. I use the Java 8 `Future`class to process all the data in parallel and when the computation is complete we render the data into XML.
+This task introduces a series of files to be read in parallel. The biggest change here is to `ChallengeTask.runTask()`. This method now creates a thread pool whose size is equal to the amount of files to be processed. I use the Java 8 `Future`class to process all the data in parallel and when the computation is complete we render the data into XML. It also utilizes a threadsafe collection `LinkedBlockingDeque'
 
 ```java
     @Override
     public void runTask() {
         try {
             beforeTask();
-            List<Paragraph> paragraphList = new ArrayList<>();
+            LinkedBlockingDeque<Paragraph> paragraphList = new LinkedBlockingDeque<>(); //thread safe collection
             ExecutorService executor = Executors.newFixedThreadPool(files.size());
             for(File file: files) {
                 Future<List<Paragraph>> paragraphs = executor.submit(() -> Files.lines(Paths.get(file.getAbsolutePath()))
@@ -118,12 +118,15 @@ This task introduces a series of files to be read in parallel. The biggest chang
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
 ```
+
+**Improvements from Task 2**
+-------
+I reverse sorted the named entity list so that running into instances of entitiy pairs that look like "Sun" and "Sun Microsystems" would process correctly. Without a reverse sort you can run into the chance that "Sun" gets parsed out first leaving only "Microsystems" in the sentence.
 
 **Limitations**
 -------
 
 This program sort of meshes functional programming and object oriented programming giving it a bit of a limitation in terms of code comprehension. Given more time to think it out I would research the appropriate Design Pattern to use and reduce Lambda usage to where it would be more appropriate. 
 
-Memory Limitations: Input is read and stored as Strings in memory. If the input are very large, memory could be come an issue. 
+Memory Limitations: Input is read and stored as Strings in memory. If the input are very large, memory could be come an issue. As Entity List grows the operational time of computing named entities grows. Currently everything is put in memory and then dumped into XML. Ideally it would stream data and write as its streaming. 
