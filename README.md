@@ -24,13 +24,9 @@ In this task it stores the lines of text into a Collection.
 ```java
 @Override
 protected void beforeTask() throws IOException {
-    try{
         lines = Files.lines(Paths.get(this.input))
                 .filter(p -> !p.trim().isEmpty())
                 .collect(Collectors.toList());
-    }catch(IOException e){
-        e.printStackTrace();
-    }
 }
 ```
 
