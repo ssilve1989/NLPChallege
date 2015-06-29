@@ -19,6 +19,7 @@ public class NamedEntityList {
             entities = Files.lines(Paths.get("NER.txt"))
                     .filter(line -> !line.trim().isEmpty())
                     .collect(Collectors.toList());
+            Collections.sort(entities, Collections.reverseOrder());
         } catch (IOException e) {
             e.printStackTrace();
         }
