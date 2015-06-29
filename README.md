@@ -130,3 +130,8 @@ I reverse sorted the named entity list so that running into instances of entitiy
 This program sort of meshes functional programming and object oriented programming giving it a bit of a limitation in terms of code comprehension. Given more time to think it out I would research the appropriate Design Pattern to use and reduce Lambda usage to where it would be more appropriate. 
 
 Memory Limitations: Input is read and stored as Strings in memory. If the input are very large, memory could be come an issue. As Entity List grows the operational time of computing named entities grows. Currently everything is put in memory and then dumped into XML. Ideally it would stream data and write as its streaming. 
+
+**Test Cases**
+-------
+
+`com.digitalreasoning.structure.test.*` contains unit testing for each Structure using JUnit. 
